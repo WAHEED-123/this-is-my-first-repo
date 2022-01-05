@@ -7,18 +7,6 @@ public class Git {
 	}
     public void methodA(){
 	    System.out.println("this is first methods");
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
+    }
 	    
 }
