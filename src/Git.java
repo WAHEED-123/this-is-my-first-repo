@@ -5,5 +5,20 @@ public class Git {
 		// TODO Auto-generated method stub
 
 	}
-
+    public void methodA(){
+	    System.out.println("this is first methods");
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
+	    
 }
