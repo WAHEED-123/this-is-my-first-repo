@@ -8,5 +8,7 @@ public class Git {
     public void methodA(){
 	    System.out.println("this is first methods");
     }
-	    
+	Public void methodB(){
+		System.out.println("this is second methods");
+	}
 }
